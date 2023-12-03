@@ -1,7 +1,7 @@
 First Impression
 
 - [Presentation](Presentation.md)
-- [About](About.md) 
+- [About](#about) 
 - [Projects](Projects.md) 
 
 ## About
